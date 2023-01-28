@@ -1,3 +1,5 @@
+This repository has code for the paper [Improved Representation Learning Through Tensorized Autoencoders](https://arxiv.org/pdf/2212.01046.pdf).
+
 Please check `reproduce_results.ipynb` to reproduce the results.
 
 * `data.py` has all the functions needed for toy data and real datasets. We consider *penguin*, *iris*, *MNIST* and *MNIST-FASHION* for real datasets.
